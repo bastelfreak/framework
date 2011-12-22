@@ -1,0 +1,1 @@
+<tr>	<td>{logID}</td>	<td>{type}</td>	<td>{description}</td>	<td>{file}</td>	<td>{line}</td>	<td>{date}</td></tr>
