@@ -2,9 +2,9 @@
 class Config{
   public	$Site_Suffix = ".php";
   public	$Site_Praefix = "sites/";
-  private	$MySQL_Passwort = "ZKYWZdtWz2BcyN6a";
+  private	$MySQL_Passwort = "PASSWORD";
 	private	$dbhost = "mysql02.bastelfreak.org";
-	private	$dbuser = "framework";
+	private	$dbuser = "USERNAME";
 	private	$dbname = "framework";
 	
 	protected function get_MySQL_Passwort(){
