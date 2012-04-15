@@ -5,7 +5,7 @@ class templateEngine extends basement{
 	# This fucking b&auml;m script parse every template file and puts content into it
 	##
 	## todo public function bockMod($blockname, tpl), erstellt einen block falls er noch nicht existiert, 
-	## hauml;ngt tpl hinten drann wie addBlock+setBlockTemplate
+	## h&auml;ngt tpl hinten drann wie addBlock+setBlockTemplate
 	private $content = array(); 
 	private $blocks = array();
 	//private $blockTemplate = array();
